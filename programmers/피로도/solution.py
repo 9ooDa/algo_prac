@@ -4,6 +4,7 @@ from itertools import permutations
 
 def solution(k, dungeons):
     # k - 소모 >= 다음 최소필요
+    # 25분 정도 걸림
     arr = list(permutations(dungeons))
     
     
