@@ -1,3 +1,6 @@
+'''
+프로그래머스 레벨2 소수 찾기
+'''
 def solution(numbers):
     def is_prime_num(number):
         prime = []

@@ -1,3 +1,6 @@
+'''
+일곱 난쟁이
+'''
 nanjaeng = [int(input()) for _ in range(9)]
 
 answer = False

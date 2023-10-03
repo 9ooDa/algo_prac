@@ -1,3 +1,6 @@
+'''
+치킨거리 (못 품)
+'''
 from collections import deque
 
 def bfs(x, y):
