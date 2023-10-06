@@ -6,9 +6,13 @@ def back_track():
         return
     
     for i in range(1, n+1):
+        print("i :", i)
         if i not in ans:
+            print("before: ", ans)
             ans.append(i)
+            print("mid :", ans)
             back_track()
             ans.pop()
+            print("after :", ans)
 
 back_track()
