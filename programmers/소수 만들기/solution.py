@@ -1,7 +1,5 @@
 // [문제 링크]: https://school.programmers.co.kr/learn/courses/30/lessons/12977#
 
-# from itertools import combinations
-
 def solution(nums):
     def is_prime(x):
         prime = True
@@ -27,7 +25,6 @@ def solution(nums):
                 
     back_track(0)
     
-    # comb = list(combinations(nums, 3))
     count = 0
     for c in comb:
         num = sum(c)
