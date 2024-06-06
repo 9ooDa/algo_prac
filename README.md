@@ -38,3 +38,19 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/9ooDa/algo_prac/tree/master/0803-cheapest-flights-within-k-stops) |
+# Array
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
+# Hash Table
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
+# Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
