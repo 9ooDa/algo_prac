@@ -41,10 +41,12 @@
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 # Hash Table
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 # Greedy
 |  |
@@ -54,3 +56,11 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
+# String
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
