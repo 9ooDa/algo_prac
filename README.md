@@ -41,12 +41,14 @@
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/9ooDa/algo_prac/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/9ooDa/algo_prac/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/9ooDa/algo_prac/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 # Greedy
@@ -70,3 +72,11 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/9ooDa/algo_prac/tree/master/1137-height-checker) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/9ooDa/algo_prac/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/9ooDa/algo_prac/tree/master/0523-continuous-subarray-sum) |
