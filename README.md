@@ -46,6 +46,7 @@
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/9ooDa/algo_prac/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/9ooDa/algo_prac/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/9ooDa/algo_prac/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0648-replace-words](https://github.com/9ooDa/algo_prac/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/9ooDa/algo_prac/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/9ooDa/algo_prac/tree/master/1217-relative-sort-array) |
 # Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0876-hand-of-straights](https://github.com/9ooDa/algo_prac/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/9ooDa/algo_prac/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/9ooDa/algo_prac/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/9ooDa/algo_prac/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/9ooDa/algo_prac/tree/master/1217-relative-sort-array) |
 # Math
 |  |
 | ------- |
