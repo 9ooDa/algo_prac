@@ -104,3 +104,14 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/9ooDa/algo_prac/tree/master/0075-sort-colors) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/9ooDa/algo_prac/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/9ooDa/algo_prac/tree/master/0027-remove-element) |
+<!---LeetCode Topics End-->
